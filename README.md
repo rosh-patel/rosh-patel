@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Roshani Patel
 
-<!--
-**rosh-patel/rosh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Data Engineer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building robust data solutions, optimizing workflows, and transforming data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools I Use
+
+- **Project Management**: Jira  
+- **Databases & Tools**:  
+  - SQL Server  
+  - SQL Developer  
+  - PostgreSQL  
+  - Microsoft Business Intelligence Studio (MS BI Studio)
+
+---
+
+## 💻 Languages I Know
+
+- SQL  
+- XML
+
+---
+
+📫 **Let’s connect!** Feel free to check out my projects or reach out if you’d like to collaborate.
+- roshpatel09384@gmail.com
